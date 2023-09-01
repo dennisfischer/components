@@ -36,3 +36,4 @@ export {
   Calculator,
 } from './map-marker-clusterer/marker-clusterer-types';
 export {MapEventManager} from './map-event-manager';
+export {MapAdvancedMarker} from './map-advanced-marker/map-advanced-marker';
